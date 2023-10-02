@@ -12,7 +12,7 @@
 
 * Contact me through [email](mailto:alvaropr05@hotmail.com) 📧
 * I upload some things in [https://github.com/4lPeReZ](https://github.com/4lPeReZ/4lPeReZ) 🕸️
-* My website [site](https://portfolio-4lperez.netlify.app/) 📧
+* My [website](https://portfolio-4lperez.netlify.app/) 📧
 
 
 <!--
